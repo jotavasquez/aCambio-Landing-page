@@ -88,7 +88,7 @@ Con esto en cuenta, llegamos a la conclusión que el problema eran los contenido
 ¿Y cómo podríamos mejorar la experiencia de estos usuarios? 
 - Fotografías que denoten cercanía, colaboración y que reflejen la realidad de los usuarios.
 - Contenidos que sean fáciles de comprender mostrando lo que se puede hacer con la plataforma a través del diálogo. (copywriting)
-- Diseño web, buenas prácticas y experiencia satisfactoria y eficiente que denote profesionalismo y confianza.
+- Diseño web, buenas prácticas, experiencia satisfactoria, eficiente que denote profesionalismo y confianza.
 
 Propuestas de diseño:
 
