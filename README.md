@@ -134,8 +134,6 @@ Optimizamos en primer lugar los contenidos para la versión móvil(mobile first)
 
 [Ver Landing page versión de escritorio en figma](https://www.figma.com/proto/Ok1ZzDXPQHpHyN0ms6YVSGIG/aCambio-Landing-page?node-id=437%3A10704&scaling=min-zoom) 
 
-![version desktop](https://drive.google.com/open?id=1HALUH3c7-vgOkEA77yONDBre_u_KBDyl)
-
 Y la especialista Front-end realizó una primera versión de prototipo en html en base a la propuesta de los wireframes:
 
 [Versión Responsive HTML](https://nadiaqn.github.io/ux-acambio/)
