@@ -44,11 +44,19 @@ Como equipo de trabajo unimos visiones entre la diseñadora de experiencia y la 
 
 ![05 acambio presentacion](https://user-images.githubusercontent.com/32280840/45605565-4d12f380-ba14-11e8-9286-d0f4b0594477.png)
 
+[Ver Test Heurístico](https://docs.google.com/document/d/1346A6zU6vtIx6Qka0RYsYKDTL9Qjt1WB5hqwcbhEFcI/edit?usp=sharing)
 
 ### Análisis
 Realizamos un mapa de afinidad primero recopilando los testimonios de los usuarios y entrevistas:
 
-Imagen
+Opiniones de los usuarios en testeo landing page
+![opiniones usuarios landing page](https://user-images.githubusercontent.com/32280840/45605965-91ec5980-ba17-11e8-8c54-767da95d572a.jpg)
+
+Clasificación en debilidades y fortalezas de la web
+![v01 debilidades y fortalezas web](https://user-images.githubusercontent.com/32280840/45605973-9d3f8500-ba17-11e8-870c-9322b2935890.jpg)
+
+Clasificacion de debilidades que pueden abarcar área front y/o ux
+![v02 clasificacion de debilidades front o ux](https://user-images.githubusercontent.com/32280840/45605985-b5af9f80-ba17-11e8-85ca-1c046eb81378.jpg)
 
 Separamos las fortalezas que tiene la web actual de acuerdo al feedback de las entrevistas y testeos, enfocandonos en los puntos problemáticos con la siguiente conclusión, si bien en general la idea de negocios era percibida como positiva y atrayente, existía un dejo de desconfianza debido a que no se entendía completamente el sistema de intercambio.
 
