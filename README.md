@@ -42,6 +42,8 @@ Como equipo de trabajo unimos visiones entre la diseñadora de experiencia y la 
 - Los textos se muestran lejanos para los usuarios.
 - No se ha potenciado el uso de fotografías.
 
+![05 acambio presentacion](https://user-images.githubusercontent.com/32280840/45605565-4d12f380-ba14-11e8-9286-d0f4b0594477.png)
+
 
 ### Análisis
 Realizamos un mapa de afinidad primero recopilando los testimonios de los usuarios y entrevistas:
@@ -53,28 +55,18 @@ Separamos las fortalezas que tiene la web actual de acuerdo al feedback de las e
 Si el problema era la información parcial que entregaba la Landing page a sus visitantes, nos hicimos la siguiente pregunta ¿Y si optimizamos la información?
 
 Para guiarnos en el proceso de mejora de la información entregada hicimos el siguiente ejercicio de reflexión:
-¿Qué queremos mostrar?(por parte de aCambio)
-Confiables
-Serios
-Colaborativos
-Eficientes
-No somos un trueque equivalente.
-Usar nuestro servicio es beneficioso.
+![05 acambio presentacion 10](https://user-images.githubusercontent.com/32280840/45605681-25705b00-ba15-11e8-9e7f-8f2de39ef0e9.png)
 
-¿cómo nos ven los usuarios actualmente?(resultados de user research)
-Cercanos, humanos
-Novedosos
-Colaborativos
-Oportunidad de crear redes
-Falta información
-Tipo Trueque
-
-Esbozando las necesidades de mis potenciales usuarios:
+### Esbozando las necesidades de mis potenciales usuarios:
 Ya que los usuarios actuales son escasos, creamos 3 protopersonas a partir del feedback de las entrevistas que nos sirvieran a modo  de guía para empatizar con las necesidades de los posibles usuarios que tiene la plataforma actualmente y así definir propuesta de diseño.
 
-link protopersona
+![02 proto personas y copywriting](https://user-images.githubusercontent.com/32280840/45605568-5308d480-ba14-11e8-93aa-11b4ffde9143.png)
 
-Analizando referentes web y Landing Pages
+![02 proto personas y copywriting 1](https://user-images.githubusercontent.com/32280840/45605571-5734f200-ba14-11e8-8987-6e6d80f4208c.png)
+
+![02 proto personas y copywriting 2](https://user-images.githubusercontent.com/32280840/45605574-5ac87900-ba14-11e8-93fc-6132108ab419.png)
+
+### Analizando referentes web y Landing Pages
 Al querer enfocarnos en la mejora de la información hicimos un análisis de sitios web de negocios éxitosos relacionados con el intercambio de productos y/o servicios internacionales, de diversos casos de mejora en landing pages y Landing pages destacadas como MailChimp, Shopify y Lyft. Con esta nueva información llegamos a la conclusión de que:
 
 - Debía tener mejoras en redacción de contenidos y organización de los mismos.
@@ -86,9 +78,7 @@ El objetivo principal de la landing page de aCambiones que el visitante envié s
 Con esto en cuenta, llegamos a la conclusión que el problema eran los contenidos de la web, los cuales no están alineados con sus objetivos comerciales, por lo tanto los visitantes que llegaban desde el buscador la abandonaban ya que esta no les ofecia una buena experiencia de usuario, por ejemplo específicamente en el formulario de contacto.
 
 ¿Y cómo podríamos mejorar la experiencia de estos usuarios? 
-- Fotografías que denoten cercanía, colaboración y que reflejen la realidad de los usuarios.
-- Contenidos que sean fáciles de comprender mostrando lo que se puede hacer con la plataforma a través del diálogo. (copywriting)
-- Diseño web, buenas prácticas, experiencia satisfactoria, eficiente que denote profesionalismo y confianza.
+![05 acambio presentacion 1](https://user-images.githubusercontent.com/32280840/45605559-45534f00-ba14-11e8-9932-3d5985801bc0.png)
 
 Propuestas de diseño:
 
