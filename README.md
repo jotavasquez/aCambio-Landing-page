@@ -116,8 +116,8 @@ Ver Landing page versión mobile
 Ver Landing page versión de escritorio
 
 
-Y realizamos un protoripo en html:
-
+Y la especialista Front-end realizó una primera versión de prototipo en html en base a la propuesta de los wireframes:
+[Versión Responsive](https://nadiaqn.github.io/ux-acambio/)
 
 
 
