@@ -127,17 +127,13 @@ Optimizamos en primer lugar los contenidos para la versión móvil(mobile first)
 
 [Ver Landing page versión móvil en figma](https://www.figma.com/proto/Ok1ZzDXPQHpHyN0ms6YVSGIG/aCambio-Landing-page?node-id=34%3A516&scaling=scale-down)
 
-<iframe width="630" height="394" src="https://www.useloom.com/embed/79083ec1538a4a5e96ad8bb84df57224" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
+![version movil](https://user-images.githubusercontent.com/32280840/45641023-aae22280-ba8a-11e8-83c4-992656918a39.gif)
 
 **Versión de Escritorio**
 
 [Ver Landing page versión de escritorio en figma](https://www.figma.com/proto/Ok1ZzDXPQHpHyN0ms6YVSGIG/aCambio-Landing-page?node-id=437%3A10704&scaling=min-zoom) 
 
-<iframe width="630" height="394" src="https://www.useloom.com/embed/3c1319c7b0d947ea9bdaf2fb798769d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
+![version desktop](https://drive.google.com/open?id=1HALUH3c7-vgOkEA77yONDBre_u_KBDyl)
 
 Y la especialista Front-end realizó una primera versión de prototipo en html en base a la propuesta de los wireframes:
 
