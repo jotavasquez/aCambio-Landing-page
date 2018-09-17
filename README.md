@@ -90,3 +90,39 @@ Con esto en cuenta, llegamos a la conclusión que el problema eran los contenido
 
 Propuestas de diseño:
 
+Definimos en líneas generales los contenidos de acuerdo a las necesidades de las protopersonas a través de la técnica de copywriting:
+
+![04 copywriting](https://user-images.githubusercontent.com/32280840/45605577-5e5c0000-ba14-11e8-9cf9-fab8f1617c12.png)
+
+![04 copywriting 1](https://user-images.githubusercontent.com/32280840/45605579-62881d80-ba14-11e8-9296-76c3f84100c3.png)
+
+![04 copywriting 2](https://user-images.githubusercontent.com/32280840/45605582-66b43b00-ba14-11e8-8f19-f7deac3536bc.png)
+
+Y rediseñadmos los contenidos de acuerdo los objetivos planteados y a la imagen de marca actual de aCambio:
+
+![05 acambio presentacion](https://user-images.githubusercontent.com/32280840/45605587-6fa50c80-ba14-11e8-9c41-5c7a59852157.jpg)
+![05 acambio presentacion 1](https://user-images.githubusercontent.com/32280840/45605589-6fa50c80-ba14-11e8-83a6-51b7dedb030e.jpg)
+![05 acambio presentacion 3](https://user-images.githubusercontent.com/32280840/45605588-6fa50c80-ba14-11e8-9224-41ebece40eed.png)
+![05 acambio presentacion 4](https://user-images.githubusercontent.com/32280840/45605600-77fd4780-ba14-11e8-9b42-7dd489ecd143.png)
+![05 acambio presentacion 5](https://user-images.githubusercontent.com/32280840/45605599-77fd4780-ba14-11e8-9a68-6f79180d9027.png)
+![05 acambio presentacion 6](https://user-images.githubusercontent.com/32280840/45605598-77fd4780-ba14-11e8-8e8c-3315f7bd5152.png)
+![05 acambio presentacion 7](https://user-images.githubusercontent.com/32280840/45605597-7764b100-ba14-11e8-9985-17da82119c93.png)
+![05 acambio presentacion 8](https://user-images.githubusercontent.com/32280840/45605596-7764b100-ba14-11e8-98a0-a7af0b8250ac.png)
+![05 acambio presentacion 9](https://user-images.githubusercontent.com/32280840/45605595-7764b100-ba14-11e8-98d9-1b874a4322f1.png)
+
+Optimizamos en primer lugar los contenidos para la versión móvil(mobile first), el resultado final se puede observar en los wireframes de alta fidelidad realizados en Figma:
+
+Ver Landing page versión mobile
+Ver Landing page versión de escritorio
+
+
+Y realizamos un protoripo en html:
+
+
+
+
+
+
+
+
+
