@@ -1,6 +1,5 @@
 # aCambio Rediseño Landing Page
-
-
+![acambio_intro](https://user-images.githubusercontent.com/32280840/45642358-56d93d00-ba8e-11e8-9a5f-c0238b9aed0b.jpg)
 
 Propuesta de diseño realizada en el contexto de la UX Challenger organizada por Laboratoria y Magical Startups en la cual las empresas entregaban diversos retos a sus participantes para desarrollarlos durante una semana aproximadamente.
 
